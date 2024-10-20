@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisión de Proveedor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="grid">
+            <h1>Información del Proveedor</h1>
+            <br>
+
+            <aside class="supplier-info">
+                <div id="supplierDetails">
+                    <p><strong>Nombre:</strong> <strong>Proveedor Ejemplo</strong></p>
+                    <p><strong>Código:</strong> PVD001</p>
+                    <p><strong>Dirección:</strong> Calle Falsa 123</p>
+                    <p><strong>Comprador:</strong> 12345</p>
+                    <p><strong>Email:</strong> ejemplo@proveedor.com</p>
+                    <p><strong>Teléfono 2:</strong> +987654321</p>
+                    <p><strong>Teléfono 1:</strong> +123456789</p>
+                    <p><strong>Persona de contacto:</strong> Juan Pérez</p>
+                    <p><strong>Balance actual:</strong> $1,000.00</p>
+                    <p><strong>Fecha de actualización:</strong> 2024-10-18</p>
+                </div>
+            </aside>
+
+            <h1>Rentabilidad</h1>
+            <br>
+            <div class="chart-container2">
+                <div class="chart-wrapper">
+                    <canvas id="profitChart"></canvas>
+                </div>
+            </div>
+
+            <h1>Ventas</h1>
+            <br>
+
+            <div class="chart-container">
+                <h2>Facturas de Ventas Mensuales $</h2>
+                <div class="chart-wrapper">
+                    <canvas id="invoicesChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <h2>Notas de Crédito de Ventas $</h2>
+                <div class="chart-wrapper">
+                    <canvas id="creditNotesChart"></canvas>
+                </div>
+            </div>
+
+            <h1>Compras</h1>
+            <br>
+
+            <div class="chart-container">
+                <h2>Facturas de Compras Mensuales $</h2>
+                <div class="chart-wrapper">
+                    <canvas id="purchaseInvoicesChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <h2>Notas de Crédito de Compras $</h2>
+                <div class="chart-wrapper">
+                    <canvas id="purchaseCreditNotesChart"></canvas>
+                </div>
+            </div>
+
+
+
+
+
+            <h1>Situación de Stock</h1>
+            <br>
+
+            <div class=tabla-info id="stocksTableContainer">
+                <table id="stockTable">
+                    <thead>
+                        <tr>
+                            <th>Subgrupo</th>
+                            <th>Stock</th>
+                            <th>Ventas 30d</th>
+                            <th>Stock en Meses</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Canastas </td>
+                            <td>18</td>
+                            <td>133</td>
+                            <td>8.09</td>
+                        </tr>
+                        <tr>
+                            <td>Quitamanchas</td>
+                            <td>5843</td>
+                            <td>911</td>
+                            <td>6.41</td>
+                        </tr>
+                        <tr>
+                            <td>Aromatizantes Del Hogar</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Insecticidas</td>
+                            <td>165</td>
+                            <td>35</td>
+                            <td>4.71</td>
+                        </tr>
+
+
+                        <h1>Unidades : Ventas y Compras por Subgrupo</h1>
+                        <br>
+                        <div id="filterContainer"></div>
+                        <canvas class="chart-container2" canvas id="ventasComprasChart" width="400" height="200"></canvas>
+
+                    </div>
+                    </tbody>
+                </table>
+            </div>
+
+
+
+
+        </div>
+    </div>
+
+    <!-- Vincular el archivo JS -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+
+</body>
+
+</html>

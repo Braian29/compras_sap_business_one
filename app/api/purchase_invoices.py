@@ -1,0 +1,13 @@
+#app\api\purchase_invoices.py 
+from flask import Blueprint, jsonify
+from .utils import load_csv_data
+
+# Crear un blueprint para la API de purchase invoices
+bp = Blueprint('purchase_invoices', __name__)
+
+# Cargar los datos al iniciar el módulo
+purchase_invoices_summary = load_csv_data('data_outputs/purchase_invoices_summary.csv')
+
+@bp.route('/api/purchase_invoices_summary', methods=['GET'])
+def api_purchase_invoices_summary():
+    return jsonify(purchase_invoices_summary)

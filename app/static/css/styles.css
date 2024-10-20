@@ -1,0 +1,156 @@
+/*Dashboard*/
+body {
+    font-family: serif, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(47, 69, 93)
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+    gap: 20px;
+}
+
+/* Ajuste para el aside del proveedor */
+.supplier-info {
+    grid-column: span 2; /* Ocupar las dos columnas */
+}
+
+.chart-container {
+    background-color: rgb(209, 207, 207);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(192, 196, 88, 0.1);
+    padding: 20px;
+    aspect-ratio: 1 / 0.5;
+    display: flex;
+    flex-direction: column;
+    max-height: 600px;
+}
+
+.chart-container2 {
+    grid-column: span 2; /* Ocupar las dos columnas */
+    background-color: rgb(209, 207, 207);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(192, 196, 88, 0.1);
+    padding: 20px;
+    aspect-ratio: 1 / 0.3;
+    display: flex;
+    flex-direction: column;
+    max-height: 600px;
+}
+
+.chart-container h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #3e3e3e;
+}
+
+.chart-wrapper {
+    flex-grow: 1;
+    position: relative;
+}
+
+h1 {
+    color: #d7d7d7;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
+    }
+}
+
+/*Info Proveedor*/
+/*Info Proveedor*/
+.supplier-info {
+    background-color: rgb(209, 207, 207); /* Fondo claro */
+    border: 1px solid #ddd; /* Borde gris */
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    margin-bottom: 20px; /* Margen inferior */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.supplier-info h2 {
+    font-size: 24px; /* Tamaño de fuente para el título */
+    color: #333; /* Color del texto */
+
+}
+
+/* Contenedor para los detalles del proveedor */
+#supplierDetails {
+    display: grid; /* Utiliza grid para la disposición */
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas de igual ancho */
+    gap: 5px; /* Espacio entre columnas */
+    justify-items: center; /* Centrar horizontalmente cada elemento */
+
+}
+
+.supplier-info p {
+    font-size: 16px; /* Tamaño de fuente para los párrafos */
+    margin: 1px 0; /* Margen superior e inferior */
+    color: #555; /* Color del texto */
+}
+
+.supplier-info p strong {
+    color: #000; /* Color para el texto en negrita */
+}
+
+/* Ajustes para el aside */
+.supplier-info {
+    position: relative; /* Asegúrate de que se posicione correctamente */
+}
+
+
+
+/* ----- Tabla ----- */
+.tabla-info {
+    grid-column: span 2; /* Ocupar las dos columnas */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd; /* Borde gris */
+    padding: 3px;
+    text-align: center;
+    background-color: rgb(209, 207, 207);
+}
+
+th {
+    background-color: #000000;
+    color:#f0f0f0
+}
+
+/* ----- Estilos para la columna Stock en Meses ----- */
+.stock-bajo {
+    background-color: rgb(251, 110, 110);
+    color: black;
+}
+
+.stock-medio-bajo {
+    background-color: rgb(142, 242, 142);
+    color: black;
+}
+
+.stock-medio {
+    background-color: rgb(240, 240, 148);
+    color: black;
+}
+
+.stock-alto {
+    background-color: rgb(253, 157, 157);
+    color: black;
+}

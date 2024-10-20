@@ -1,0 +1,25 @@
+[
+    {
+        "odata.etag": "W/\"356A192B7913B04C54574D18C28D46E6395428AB\"",
+        "CardCode": "30002",
+        "CardName": "La Papelera Del Plata - Softys Argentina SA",
+        "Address": "Av.Int.Francisco Rabanal 3120",
+        "ZipCode": "1437",
+        "MailAddress": "Av.Int.Francisco Rabanal 3120",
+        "Phone1": null,
+        "Phone2": null,
+        "ContactPerson": null,
+        "PayTermsGrpCode": 77,
+        "FederalTaxID": "30501036672",
+        "PriceListNum": 16,
+        "FreeText": null,
+        "SalesPersonCode": 4,
+        "CurrentAccountBalance": -58421954.41,
+        "Valid": "tYES",
+        "UpdateDate": "2024-08-30",
+        "CreateDate": "2021-10-27",
+        "U_U_SC_Frecuencia": 0,
+        "U_U_SC_Secuencia": null,
+        "U_U_SC_Atencion": null
+    }
+]

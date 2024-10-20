@@ -1,0 +1,342 @@
+[
+    {
+        "GroupNumber": 55,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 7 dias recepcion"
+    },
+    {
+        "GroupNumber": 33,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros Fisicos 45 dias"
+    },
+    {
+        "GroupNumber": 34,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros Fisicos 60 dias"
+    },
+    {
+        "GroupNumber": 35,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros Fisicos 90 dias"
+    },
+    {
+        "GroupNumber": 37,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros e-cheq 45 dias"
+    },
+    {
+        "GroupNumber": 38,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros e-cheq 60 dias"
+    },
+    {
+        "GroupNumber": 39,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros e-cheq 90 dias"
+    },
+    {
+        "GroupNumber": 62,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 7 dias Factura"
+    },
+    {
+        "GroupNumber": 60,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 60 dias recepcion"
+    },
+    {
+        "GroupNumber": 59,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 45 dias recepcion"
+    },
+    {
+        "GroupNumber": 58,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 40 dias recepcion"
+    },
+    {
+        "GroupNumber": 54,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 4 dias recepcion"
+    },
+    {
+        "GroupNumber": 57,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 30 dias recepcion"
+    },
+    {
+        "GroupNumber": 73,
+        "PaymentTermsGroupName": "C_ Contado"
+    },
+    {
+        "GroupNumber": 67,
+        "PaymentTermsGroupName": "C_ 20 dias"
+    },
+    {
+        "GroupNumber": 46,
+        "PaymentTermsGroupName": "Prov Cheques Propios Fisicos 45 dias"
+    },
+    {
+        "GroupNumber": 47,
+        "PaymentTermsGroupName": "Prov Cheques Propios Fisicos 60 dias"
+    },
+    {
+        "GroupNumber": 48,
+        "PaymentTermsGroupName": "Prov Cheques Propios Fisicos 90 dias"
+    },
+    {
+        "GroupNumber": 50,
+        "PaymentTermsGroupName": "Prov Cheques Propios e-cheq 45 dias"
+    },
+    {
+        "GroupNumber": 51,
+        "PaymentTermsGroupName": "Prov Cheques Propios e-cheq 60 dias"
+    },
+    {
+        "GroupNumber": 52,
+        "PaymentTermsGroupName": "Prov Cheques Propios e-cheq 90 dias"
+    },
+    {
+        "GroupNumber": 13,
+        "PaymentTermsGroupName": "Cliente Retención de ganancias"
+    },
+    {
+        "GroupNumber": 11,
+        "PaymentTermsGroupName": "Cliente Retención de IIBB"
+    },
+    {
+        "GroupNumber": 12,
+        "PaymentTermsGroupName": "Cliente Retención de IVA"
+    },
+    {
+        "GroupNumber": 14,
+        "PaymentTermsGroupName": "Cliente Retención de SUSS"
+    },
+    {
+        "GroupNumber": 65,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 30 dias Factura"
+    },
+    {
+        "GroupNumber": 68,
+        "PaymentTermsGroupName": "C_ 30 días"
+    },
+    {
+        "GroupNumber": 56,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 21 dias recepcion"
+    },
+    {
+        "GroupNumber": 64,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 21 dias Factura"
+    },
+    {
+        "GroupNumber": 4,
+        "PaymentTermsGroupName": "Clientes Cuotas 30, 60, 90 s/Intereses"
+    },
+    {
+        "GroupNumber": 74,
+        "PaymentTermsGroupName": "C_ Contado (VLA - Bolson - SMA)"
+    },
+    {
+        "GroupNumber": 24,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 15 dias recepcion"
+    },
+    {
+        "GroupNumber": 61,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 14 dias recepcion"
+    },
+    {
+        "GroupNumber": 25,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Credito"
+    },
+    {
+        "GroupNumber": 27,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Credito 2 Cuotas con Recargo"
+    },
+    {
+        "GroupNumber": 30,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Crédito 12 Cuotas Con Recargo"
+    },
+    {
+        "GroupNumber": 28,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Crédito 3 Cuotas Con Recargo"
+    },
+    {
+        "GroupNumber": 29,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Crédito 6 Cuotas Con Recargo"
+    },
+    {
+        "GroupNumber": 31,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Crédito Plan Z (tarjeta Naranja) Sin Recargo"
+    },
+    {
+        "GroupNumber": 17,
+        "PaymentTermsGroupName": "Cliente Tarjeta de Debito"
+    },
+    {
+        "GroupNumber": 63,
+        "PaymentTermsGroupName": "Prov Transferencia Bancaria 14 dias Factura"
+    },
+    {
+        "GroupNumber": -1,
+        "PaymentTermsGroupName": "Contado"
+    },
+    {
+        "GroupNumber": 18,
+        "PaymentTermsGroupName": "Prov Caja Chica Efectivo"
+    },
+    {
+        "GroupNumber": 16,
+        "PaymentTermsGroupName": "Prov Retiro Efectivo de Bancos (cuando un Socio Retira Efectivo del Banco)"
+    },
+    {
+        "GroupNumber": 19,
+        "PaymentTermsGroupName": "Prov Link Pagos/Pagos Mis Cuentas"
+    },
+    {
+        "GroupNumber": 45,
+        "PaymentTermsGroupName": "Prov Efectivo Estudio"
+    },
+    {
+        "GroupNumber": 41,
+        "PaymentTermsGroupName": "Prov Contado Efectivo al dia"
+    },
+    {
+        "GroupNumber": 42,
+        "PaymentTermsGroupName": "Prov Contado Efectivo 7 dias"
+    },
+    {
+        "GroupNumber": 44,
+        "PaymentTermsGroupName": "Prov Contado Efectivo 30 dias"
+    },
+    {
+        "GroupNumber": 43,
+        "PaymentTermsGroupName": "Prov Contado Efectivo 15 dias"
+    },
+    {
+        "GroupNumber": 53,
+        "PaymentTermsGroupName": "Prov Compensacion"
+    },
+    {
+        "GroupNumber": 7,
+        "PaymentTermsGroupName": "Prov Cheques Propios Fisicos 30 dias"
+    },
+    {
+        "GroupNumber": 49,
+        "PaymentTermsGroupName": "Prov Cheques Propios e-cheq 30 dias"
+    },
+    {
+        "GroupNumber": 40,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros Fisicos 30 dias"
+    },
+    {
+        "GroupNumber": 36,
+        "PaymentTermsGroupName": "Prov Cheques de Terceros e-cheq 30 dias"
+    },
+    {
+        "GroupNumber": 72,
+        "PaymentTermsGroupName": "C_ Especial"
+    },
+    {
+        "GroupNumber": 20,
+        "PaymentTermsGroupName": "Prov Tarjeta Corporativa"
+    },
+    {
+        "GroupNumber": 66,
+        "PaymentTermsGroupName": "C_ Grandes Clientes"
+    },
+    {
+        "GroupNumber": 70,
+        "PaymentTermsGroupName": "C_ Grandes clientes (VLA- SMA - BOLS)"
+    },
+    {
+        "GroupNumber": 15,
+        "PaymentTermsGroupName": "Cliente Compensación"
+    },
+    {
+        "GroupNumber": 71,
+        "PaymentTermsGroupName": "C_ 20 días (VLA - SMA - BOLS)"
+    },
+    {
+        "GroupNumber": 5,
+        "PaymentTermsGroupName": "Cliente Contado Efectivo"
+    },
+    {
+        "GroupNumber": 26,
+        "PaymentTermsGroupName": "Cliente Deposito Bancario (Efectivo)"
+    },
+    {
+        "GroupNumber": 6,
+        "PaymentTermsGroupName": "Cliente Transferencias Bancarias"
+    },
+    {
+        "GroupNumber": 8,
+        "PaymentTermsGroupName": "Clientes Cheques de Terceros"
+    },
+    {
+        "GroupNumber": 85,
+        "PaymentTermsGroupName": "P_Fact _14 dias"
+    },
+    {
+        "GroupNumber": 77,
+        "PaymentTermsGroupName": "P_Fact _25 dias"
+    },
+    {
+        "GroupNumber": 78,
+        "PaymentTermsGroupName": "P_Fact _30 dias"
+    },
+    {
+        "GroupNumber": 87,
+        "PaymentTermsGroupName": "P_PagoAntic"
+    },
+    {
+        "GroupNumber": 86,
+        "PaymentTermsGroupName": "P_Recep _04 dias"
+    },
+    {
+        "GroupNumber": 83,
+        "PaymentTermsGroupName": "P_Recep _07 dias"
+    },
+    {
+        "GroupNumber": 91,
+        "PaymentTermsGroupName": "P_Recep _08 dias"
+    },
+    {
+        "GroupNumber": 92,
+        "PaymentTermsGroupName": "P_Recep _10 dias"
+    },
+    {
+        "GroupNumber": 75,
+        "PaymentTermsGroupName": "P_Recep _14 dias"
+    },
+    {
+        "GroupNumber": 82,
+        "PaymentTermsGroupName": "P_Recep _15 dias"
+    },
+    {
+        "GroupNumber": 80,
+        "PaymentTermsGroupName": "P_Recep _20 dias"
+    },
+    {
+        "GroupNumber": 90,
+        "PaymentTermsGroupName": "P_Recep _21 dias"
+    },
+    {
+        "GroupNumber": 84,
+        "PaymentTermsGroupName": "P_Recep _28 dias"
+    },
+    {
+        "GroupNumber": 81,
+        "PaymentTermsGroupName": "P_Recep _30 dias"
+    },
+    {
+        "GroupNumber": 93,
+        "PaymentTermsGroupName": "P_Recep _30, 60, 90  dias"
+    },
+    {
+        "GroupNumber": 89,
+        "PaymentTermsGroupName": "P_Recep _40 dias"
+    },
+    {
+        "GroupNumber": 79,
+        "PaymentTermsGroupName": "P_Recep _42 dias"
+    },
+    {
+        "GroupNumber": 76,
+        "PaymentTermsGroupName": "P_Recep _45 dias"
+    },
+    {
+        "GroupNumber": 88,
+        "PaymentTermsGroupName": "P_Recep _60 dias"
+    },
+    {
+        "GroupNumber": 69,
+        "PaymentTermsGroupName": "C_ 40 días"
+    }
+]
