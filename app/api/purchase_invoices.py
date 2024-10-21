@@ -6,7 +6,7 @@ from .utils import load_csv_data
 bp = Blueprint('purchase_invoices', __name__)
 
 # Cargar los datos al iniciar el módulo
-purchase_invoices_summary = load_csv_data('data_outputs/purchase_invoices_summary.csv')
+purchase_invoices_summary = load_csv_data('data_outputs/purchaseinvoices_summary.csv')
 
 @bp.route('/api/purchase_invoices_summary', methods=['GET'])
 def api_purchase_invoices_summary():
