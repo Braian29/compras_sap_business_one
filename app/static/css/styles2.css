@@ -69,19 +69,17 @@ h1, h2 {
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
     padding: 20px;
+    font-size: 14px; /* Mantiene un tamaño de fuente consistente */
 }
 
 #supplierDetails {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 5px;
-    font-size: 0.8em; /* Tamaño de fuente más pequeño para detalles */
 }
 
 .supplier-info p {
-    font-size: 14px;
     margin: 1px 0;
-    color: #555;
+    color: #000000;
 }
 
 .supplier-info p strong {

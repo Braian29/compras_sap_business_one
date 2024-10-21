@@ -94,6 +94,10 @@
                     <p><strong>Balance actual:</strong> $1,000.00</p>
                     <p><strong>Fecha de actualización:</strong> 2024-10-18</p>
                 </div>
+                <br><br>
+                <input type="text" id="cardCodeInput" placeholder="Ingresa CardCode" />
+                <button class="nav-btn" onclick="executeTasks()">Ejecutar Tareas</button>
+
             </aside>
         </div>
 
@@ -149,7 +153,7 @@
 
     <div class="navbar">
         <div class="logo">
-            <img src="tu-logo.png" alt="Logo" />
+            <img src="app\templates\logo.png" alt="Logo" />
         </div>
         <div class="nav-buttons">
             <button class="nav-btn">Generar Pedido</button>
@@ -157,6 +161,11 @@
             <button class="nav-btn">Rendimiento de Ofertas</button>
         </div>
     </div>
+    
+    <script>
+
+    </script>
+    
     
     <!-- Vincular el archivo JS -->
     <script src="{{ url_for('static', filename='js/script.js') }}"></script>

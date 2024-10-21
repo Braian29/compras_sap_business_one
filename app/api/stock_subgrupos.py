@@ -16,9 +16,10 @@ def load_csv_data(file_path):
 # Crear un blueprint para la API de stock subgrupos
 bp = Blueprint('stock_subgrupos', __name__)
 
-# Cargar los datos al iniciar el módulo
-stock_subgrupos = load_csv_data('data_outputs\stock_y_ventas_por_subgrupo.csv')  
 
 @bp.route('/api/stock_subgrupos', methods=['GET'])
 def api_stock_subgrupos():
+    # Cargar los datos al iniciar el módulo
+    stock_subgrupos = load_csv_data('data_outputs\stock_y_ventas_por_subgrupo.csv')  
+
     return jsonify(stock_subgrupos)

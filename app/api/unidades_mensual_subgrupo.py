@@ -14,9 +14,10 @@ def load_csv_data(file_path):
 # Crear un blueprint para la API de ventas y compras
 bp = Blueprint('ventas_compras', __name__)
 
-# Cargar los datos de ventas y compras al iniciar el módulo
-ventas_compras_por_subgrupo = load_csv_data('data_outputs/ventas_compras_por_subgrupo.csv')
+
 
 @bp.route('/api/ventas_compras_por_subgrupo', methods=['GET'])
 def api_ventas_compras_por_subgrupo():
+    # Cargar los datos de ventas y compras al iniciar el módulo
+    ventas_compras_por_subgrupo = load_csv_data('data_outputs/ventas_compras_por_subgrupo.csv')
     return jsonify(ventas_compras_por_subgrupo)

@@ -229,15 +229,9 @@ function displaySupplierData(supplier) {
     supplierDetailsDiv.innerHTML = `
         <p><strong>Código:</strong> ${supplier.CardCode}</p>
         <p><strong>Nombre: ${supplier.CardName}</strong></p>
-        <p><strong>Teléfono 1:</strong> ${supplier.Phone1 || 'No disponible'}</p>
-        <p><strong>Teléfono 2:</strong> ${supplier.Phone2 || 'No disponible'}</p>
-        <p><strong>Persona de Contacto:</strong> ${supplier.ContactPerson}</p>
-        <p><strong>ID Fiscal Federal:</strong> ${supplier.FederalTaxID}</p>
-        <p><strong>Saldo de Cuenta Actual:</strong> $${numberWithCommas(supplier.CurrentAccountBalance.toFixed(2))}</p>
-        <p><strong>Validez:</strong> ${supplier.Valid}</p>
+        <p><strong>Saldo de Cuenta Actual: $${numberWithCommas(supplier.CurrentAccountBalance.toFixed(2))}</strong></p>
     `;
 }
-
 
 // Fetch supplier data
 fetchSupplierData('/api/supplier');
@@ -317,3 +311,41 @@ async function obtenerYGraficarDatos() {
 
 // Llamar a la función para obtener y graficar los datos
 obtenerYGraficarDatos();
+
+
+// Función para ejecutar las tareas de descargas y features
+async function executeTasks() {
+    const cardCode = document.getElementById('cardCodeInput').value;
+
+    if (!cardCode) {
+        alert('Por favor, ingresa un CardCode.');
+        return;
+    }
+
+    try {
+        const response = await fetch('/execute-tasks', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ card_code: cardCode }),
+        });
+
+        const data = await response.json();
+        alert(data.message);
+
+        // Reconsultar los datos después de ejecutar las tareas
+        await fetchDataAndCreateChart('/api/invoices_summary', 'invoicesChart', 'Facturas de Ventas', ['rgba(75, 192, 192, 0.6)', 'rgba(75, 192, 192, 1)']);
+        await fetchDataAndCreateChart('/api/credit_notes_summary', 'creditNotesChart', 'Notas de Crédito de Ventas', ['rgba(255, 99, 132, 0.6)', 'rgba(255, 99, 132, 1)']);
+        await fetchDataAndCreateChart('/api/purchase_invoices_summary', 'purchaseInvoicesChart', 'Facturas de Compras', ['rgba(54, 162, 235, 0.6)', 'rgba(54, 162, 235, 1)']);
+        await fetchDataAndCreateChart('/api/purchase_credit_notes_summary', 'purchaseCreditNotesChart', 'Notas de Crédito de Compras', ['rgba(255, 206, 86, 0.6)', 'rgba(255, 206, 86, 1)']);
+        await fetchDataAndCreateChart('/api/profit_by_month', 'profitChart', 'Rentabilidad Mensual', ['rgba(153, 102, 255, 0.6)', 'rgba(153, 102, 255, 1)']);
+        await fetchStockData(); // Reconsultar datos de stock
+        await fetchSupplierData('/api/supplier'); // Reconsultar datos del proveedor
+        await obtenerYGraficarDatos(); // Reconsultar y graficar datos de ventas y compras
+
+    } catch (error) {
+        console.error('Error al ejecutar las tareas:', error);
+        alert('Ocurrió un error al intentar ejecutar las tareas.');
+    }
+}

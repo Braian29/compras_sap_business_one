@@ -10,9 +10,10 @@ def load_csv_data(file_path):
 # Crear un blueprint para la API de profit
 bp = Blueprint('profit', __name__)
 
-# Cargar los datos de rentabilidad al iniciar el módulo
-profit_by_month = load_csv_data('data_outputs/profit_by_month.csv')
+
 
 @bp.route('/api/profit_by_month', methods=['GET'])
 def api_profit_by_month():
+    # Cargar los datos de rentabilidad al iniciar el módulo
+    profit_by_month = load_csv_data('data_outputs/profit_by_month.csv')
     return jsonify(profit_by_month)
