@@ -16,7 +16,7 @@ from A_get_documentos_enteros.utils_get import fecha_desde, fecha_hasta, card_co
 
 from datetime import datetime
 
-card_code = 30000  # CardCode para probar que funcione el script
+card_code = 32189  # CardCode para probar que funcione el script
 
 def get_current_time():
     return datetime.now()

@@ -1,1 +1,302 @@
-[]
+[
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556636",
+            "Quantity": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 13920.0,
+            "VendorNum": "MI-105",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 83520.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "560626",
+            "Quantity": 8.0,
+            "DiscountPercent": 0.0,
+            "Price": 23200.0,
+            "VendorNum": "MI-086",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 185600.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "556476",
+            "Quantity": 3.0,
+            "DiscountPercent": 0.0,
+            "Price": 33060.0,
+            "VendorNum": "MI-231",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 99180.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "559265",
+            "Quantity": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 15080.0,
+            "VendorNum": "MI-146",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 150800.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 4,
+            "ItemCode": "560871",
+            "Quantity": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 8120.0,
+            "VendorNum": "MI-181",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 81200.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 5,
+            "ItemCode": "6540",
+            "Quantity": 8.0,
+            "DiscountPercent": 0.0,
+            "Price": 13224.0,
+            "VendorNum": "MI-021",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 105792.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 6,
+            "ItemCode": "556131",
+            "Quantity": 100.0,
+            "DiscountPercent": 0.0,
+            "Price": 16936.0,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 1693600.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 7,
+            "ItemCode": "560869",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 23200.0,
+            "VendorNum": "MI-087",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 92800.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 8,
+            "ItemCode": "560309",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 14384.0,
+            "VendorNum": "MI-013",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57536.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 9,
+            "ItemCode": "557911",
+            "Quantity": 7.0,
+            "DiscountPercent": 0.0,
+            "Price": 15544.0,
+            "VendorNum": "MI-098",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 108808.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 10,
+            "ItemCode": "556344",
+            "Quantity": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 7308.0,
+            "VendorNum": "MI-022",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 73080.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 11,
+            "ItemCode": "558174",
+            "Quantity": 5.0,
+            "DiscountPercent": 0.0,
+            "Price": 15544.0,
+            "VendorNum": "MI-100",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 77720.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 12,
+            "ItemCode": "503870",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 23200.0,
+            "VendorNum": "MI-088",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 46400.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 13,
+            "ItemCode": "518326",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 9454.0,
+            "VendorNum": "MI-140",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 37816.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7199,
+            "NumAtCard": "0002-A-00000236",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 14,
+            "ItemCode": "557910",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 36250.0,
+            "VendorNum": "MI-057",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 72500.0,
+            "SalesPersonCode": -1
+        }
+    }
+]

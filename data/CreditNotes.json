@@ -1,282 +1,482 @@
 [
     {
         "CreditNotes": {
-            "DocEntry": 33646,
-            "NumAtCard": "0034-B-00000386",
+            "DocEntry": 33569,
+            "NumAtCard": "0042-B-00000441",
             "CardName": "Consumidor Final",
-            "DocDate": "2023-09-28",
+            "DocDate": "2023-09-26",
             "FederalTaxID": "00000000"
         },
         "CreditNotes/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "562167",
+            "ItemCode": "529875",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 609.67,
-            "VendorNum": "1003-02C",
+            "Price": 839.74,
+            "VendorNum": "MD-098",
+            "WarehouseCode": "BOLS",
+            "LineTotal": 839.74,
+            "SalesPersonCode": 9
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 33850,
+            "NumAtCard": "0035-A-00000039",
+            "CardName": "Calvo Marcelo Javier",
+            "DocDate": "2023-10-07",
+            "FederalTaxID": "20238342148"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 18,
+            "ItemCode": "556344",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 1555.82,
+            "VendorNum": "MI-022",
             "WarehouseCode": "TISC",
-            "LineTotal": 609.67,
+            "LineTotal": 1555.82,
             "SalesPersonCode": 7
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 34238,
-            "NumAtCard": "0039-B-00000461",
-            "CardName": "Consumidor Final",
-            "DocDate": "2023-10-28",
-            "FederalTaxID": "00000000"
+            "DocEntry": 34365,
+            "NumAtCard": "0047-A-00001781",
+            "CardName": "Total Sport SRL",
+            "DocDate": "2023-11-03",
+            "FederalTaxID": "30709853127"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "561231",
+            "LineNum": 0,
+            "ItemCode": "556131",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 699.35,
-            "VendorNum": "1003-00G",
-            "WarehouseCode": "PION",
-            "LineTotal": 699.35,
-            "SalesPersonCode": 8
+            "Price": 8916.62,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 8916.62,
+            "SalesPersonCode": 3
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 34395,
-            "NumAtCard": "0042-B-00000474",
-            "CardName": "Consumidor Final",
-            "DocDate": "2023-11-04",
-            "FederalTaxID": "00000000"
+            "DocEntry": 34724,
+            "NumAtCard": "0047-A-00001840",
+            "CardName": "Total Sport SRL",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "30709853127"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "562168",
+            "LineNum": 0,
+            "ItemCode": "556131",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 8916.62,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 8916.62,
+            "SalesPersonCode": 3
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 34207,
+            "NumAtCard": "0031-A-00004781",
+            "CardName": "Futuro Inversiones Sa",
+            "DocDate": "2023-10-27",
+            "FederalTaxID": "30708196211"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556131",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 9951.59,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 9951.59,
+            "SalesPersonCode": 13
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 38503,
+            "NumAtCard": "0047-B-00000369",
+            "CardName": "Municipalidad Centro Civico",
+            "DocDate": "2024-04-23",
+            "FederalTaxID": "30999112583"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "549631",
             "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 699.35,
-            "VendorNum": "1034-06NP",
-            "WarehouseCode": "BOLS",
-            "LineTotal": 1398.69,
-            "SalesPersonCode": 9
+            "Price": 74050.76,
+            "VendorNum": "MI-075",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 148101.52,
+            "SalesPersonCode": 14
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 34643,
-            "NumAtCard": "0042-B-00000485",
-            "CardName": "Consumidor Final",
-            "DocDate": "2023-11-16",
-            "FederalTaxID": "00000000"
+            "DocEntry": 41139,
+            "NumAtCard": "0047-A-00002904",
+            "CardName": "Erdesa SRL",
+            "DocDate": "2024-08-02",
+            "FederalTaxID": "30708767693"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "561290",
+            "LineNum": 0,
+            "ItemCode": "556131",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 699.35,
-            "VendorNum": "1003-44T",
-            "WarehouseCode": "BOLS",
-            "LineTotal": 699.35,
-            "SalesPersonCode": 9
+            "Price": 15643.1,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 15643.1,
+            "SalesPersonCode": 14
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 35803,
-            "NumAtCard": "0034-B-00000466",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-01-09",
-            "FederalTaxID": "00000000"
+            "DocEntry": 41720,
+            "NumAtCard": "0047-A-00003034",
+            "CardName": "Catski SRL",
+            "DocDate": "2024-08-22",
+            "FederalTaxID": "30711417148"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "555148",
+            "LineNum": 0,
+            "ItemCode": "556131",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 1416.6,
-            "VendorNum": "1034-05LP",
-            "WarehouseCode": "TISC",
-            "LineTotal": 1416.6,
-            "SalesPersonCode": 7
+            "Price": 19553.88,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 19553.88,
+            "SalesPersonCode": 12
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 39031,
-            "NumAtCard": "0039-B-00000660",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-05-23",
-            "FederalTaxID": "00000000"
+            "DocEntry": 38533,
+            "NumAtCard": "0031-A-00004856",
+            "CardName": "Cambria SA",
+            "DocDate": "2024-04-24",
+            "FederalTaxID": "30645312968"
         },
         "CreditNotes/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "551917",
+            "ItemCode": "556131",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 1379.83,
-            "VendorNum": "1003-99VD",
+            "Price": 19937.28,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 19937.28,
+            "SalesPersonCode": 14
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 34369,
+            "NumAtCard": "0047-A-00001785",
+            "CardName": "Marina Del Puerto Manzano SA",
+            "DocDate": "2023-11-03",
+            "FederalTaxID": "30682678581"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "556131",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 9951.59,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 9951.59,
+            "SalesPersonCode": 13
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 40909,
+            "NumAtCard": "0047-A-00002859",
+            "CardName": "Panatel SA",
+            "DocDate": "2024-07-26",
+            "FederalTaxID": "30587197215"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "563194",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 29445.8,
+            "VendorNum": "MI-088",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 29445.8,
+            "SalesPersonCode": 14
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 38322,
+            "NumAtCard": "0047-A-00002449",
+            "CardName": "Patagonia Food SRL",
+            "DocDate": "2024-04-12",
+            "FederalTaxID": "30716440954"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "556131",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 17863.8,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 35727.6,
+            "SalesPersonCode": 20
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 40197,
+            "NumAtCard": "0047-A-00002765",
+            "CardName": "Americano Del Sur SRL",
+            "DocDate": "2024-07-05",
+            "FederalTaxID": "30712347739"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "549631",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 59240.61,
+            "VendorNum": "MI-075",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 118481.22,
+            "SalesPersonCode": 21
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 40305,
+            "NumAtCard": "0047-A-00002786",
+            "CardName": "Las PeÃ±as SAS",
+            "DocDate": "2024-07-10",
+            "FederalTaxID": "30718073770"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "560869",
+            "Quantity": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 23556.64,
+            "VendorNum": "MI-087",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 23556.64,
+            "SalesPersonCode": 3
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 41026,
+            "NumAtCard": "0047-A-00002885",
+            "CardName": "Bosco SRL.",
+            "DocDate": "2024-07-30",
+            "FederalTaxID": "30717997855"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 4,
+            "ItemCode": "556131",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 15949.82,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 31899.64,
+            "SalesPersonCode": 12
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 42196,
+            "NumAtCard": "0055-B-00000107",
+            "CardName": "Consumidor Final",
+            "DocDate": "2024-09-07",
+            "FederalTaxID": "20222222223"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 1469,
+            "ItemCode": "565954",
+            "Quantity": 1.0,
+            "DiscountPercent": 1.9607,
+            "Price": 7550.21,
+            "VendorNum": "MI-140",
             "WarehouseCode": "PION",
-            "LineTotal": 1379.83,
+            "LineTotal": 7550.21,
             "SalesPersonCode": 8
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 35085,
-            "NumAtCard": "0042-B-00000502",
-            "CardName": "Consumidor Final",
-            "DocDate": "2023-12-09",
-            "FederalTaxID": "00000000"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "555148",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 815.88,
-            "VendorNum": "1034-05LP",
-            "WarehouseCode": "BOLS",
-            "LineTotal": 815.88,
-            "SalesPersonCode": 9
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 39795,
-            "NumAtCard": "0042-B-00000645",
-            "CardName": "Consumidor Final",
+            "DocEntry": 39644,
+            "NumAtCard": "9999-A-00002780",
+            "CardName": "DF - Responsable Inscripto",
             "DocDate": "2024-06-24",
-            "FederalTaxID": "00000000"
+            "FederalTaxID": "30709691771"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "555147",
+            "LineNum": 0,
+            "ItemCode": "6540",
+            "Quantity": 1.0,
+            "DiscountPercent": 3.8461,
+            "Price": 10814.1,
+            "VendorNum": "MI-021",
+            "WarehouseCode": "PION",
+            "LineTotal": 10814.1,
+            "SalesPersonCode": 8
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 39644,
+            "NumAtCard": "9999-A-00002780",
+            "CardName": "DF - Responsable Inscripto",
+            "DocDate": "2024-06-24",
+            "FederalTaxID": "30709691771"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "556131",
+            "Quantity": 1.0,
+            "DiscountPercent": 3.8461,
+            "Price": 15336.37,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "PION",
+            "LineTotal": 15336.37,
+            "SalesPersonCode": 8
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 40633,
+            "NumAtCard": "0058-A-00000001",
+            "CardName": "CR RESTO MONTANA Y PLAYA",
+            "DocDate": "2024-07-18",
+            "FederalTaxID": "30718190319"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 348,
+            "ItemCode": "560871",
+            "Quantity": 1.0,
+            "DiscountPercent": 14.1483,
+            "Price": 6711.3,
+            "VendorNum": "MI-181",
+            "WarehouseCode": "VILL",
+            "LineTotal": 6711.31,
+            "SalesPersonCode": 10
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 41208,
+            "NumAtCard": "0054-A-00000010",
+            "CardName": "Sendra, Augusto",
+            "DocDate": "2024-08-03",
+            "FederalTaxID": "20248238136"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 930,
+            "ItemCode": "556131",
+            "Quantity": 1.0,
+            "DiscountPercent": 1.9608,
+            "Price": 15336.37,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "PION",
+            "LineTotal": 15336.37,
+            "SalesPersonCode": 8
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 41482,
+            "NumAtCard": "0047-A-00002982",
+            "CardName": "Fideicomiso Hotel Bariloche C",
+            "DocDate": "2024-08-13",
+            "FederalTaxID": "30714916935"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "549631",
+            "Quantity": 1.0,
+            "DiscountPercent": 10.0,
+            "Price": 52291.23,
+            "VendorNum": "MI-075",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 52291.23,
+            "SalesPersonCode": 12
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 43276,
+            "NumAtCard": "0056-B-00000122",
+            "CardName": "Consumidor Final",
+            "DocDate": "2024-10-05",
+            "FederalTaxID": "20222222223"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 887,
+            "ItemCode": "557913",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 1763.13,
-            "VendorNum": "1034-03RP",
+            "Price": 19662.0,
+            "VendorNum": "MI-047",
             "WarehouseCode": "BOLS",
-            "LineTotal": 1763.13,
+            "LineTotal": 19662.0,
             "SalesPersonCode": 9
         }
     },
     {
         "CreditNotes": {
-            "DocEntry": 37011,
-            "NumAtCard": "0044-B-00000367",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-02-15",
-            "FederalTaxID": "00000000"
+            "DocEntry": 43440,
+            "NumAtCard": "0047-A-00003223",
+            "CardName": "Hoteleria De Los Lagos SA (Ausonia)",
+            "DocDate": "2024-10-10",
+            "FederalTaxID": "30709280666"
         },
         "CreditNotes/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "551914",
+            "LineNum": 2,
+            "ItemCode": "556131",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 19553.88,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 78215.52,
+            "SalesPersonCode": 14
+        }
+    },
+    {
+        "CreditNotes": {
+            "DocEntry": 43502,
+            "NumAtCard": "0059-B-00000064",
+            "CardName": "Consumidor Final",
+            "DocDate": "2024-10-14",
+            "FederalTaxID": "20222222223"
+        },
+        "CreditNotes/DocumentLines": {
+            "LineNum": 697,
+            "ItemCode": "556131",
             "Quantity": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 1416.6,
-            "VendorNum": "1003-66V",
+            "Price": 15336.37,
+            "VendorNum": "MI-109",
             "WarehouseCode": "VILL",
-            "LineTotal": 1416.6,
+            "LineTotal": 15336.37,
             "SalesPersonCode": 10
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 37011,
-            "NumAtCard": "0044-B-00000367",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-02-15",
-            "FederalTaxID": "00000000"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "551917",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 1416.6,
-            "VendorNum": "1003-99VD",
-            "WarehouseCode": "VILL",
-            "LineTotal": 1416.6,
-            "SalesPersonCode": 10
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 37631,
-            "NumAtCard": "0037-B-00000494",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-03-07",
-            "FederalTaxID": "00000000"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 10,
-            "ItemCode": "555528",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 1192.43,
-            "VendorNum": "1110",
-            "WarehouseCode": "TISC",
-            "LineTotal": 1192.43,
-            "SalesPersonCode": 7
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 43101,
-            "NumAtCard": "0054-B-00000154",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-09-28",
-            "FederalTaxID": "20222222223"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 386,
-            "ItemCode": "555150",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 1371.76,
-            "VendorNum": "1506",
-            "WarehouseCode": "PION",
-            "LineTotal": 1371.76,
-            "SalesPersonCode": 8
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 43101,
-            "NumAtCard": "0054-B-00000154",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-09-28",
-            "FederalTaxID": "20222222223"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 389,
-            "ItemCode": "559176",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 1371.76,
-            "VendorNum": "1158",
-            "WarehouseCode": "PION",
-            "LineTotal": 1371.76,
-            "SalesPersonCode": 8
-        }
-    },
-    {
-        "CreditNotes": {
-            "DocEntry": 42915,
-            "NumAtCard": "9999-B-00003023",
-            "CardName": "Consumidor Final",
-            "DocDate": "2024-09-17",
-            "FederalTaxID": "20222222223"
-        },
-        "CreditNotes/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "551913",
-            "Quantity": 1.0,
-            "DiscountPercent": 5.4211,
-            "Price": 1863.99,
-            "VendorNum": "1003-55R",
-            "WarehouseCode": "TISC",
-            "LineTotal": 1863.99,
-            "SalesPersonCode": 7
         }
     }
 ]

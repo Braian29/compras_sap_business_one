@@ -227,8 +227,7 @@ function fetchSupplierData(url) {
 function displaySupplierData(supplier) {
     const supplierDetailsDiv = document.getElementById('supplierDetails');
     supplierDetailsDiv.innerHTML = `
-        <p><strong>Código:</strong> ${supplier.CardCode}</p>
-        <p><strong>Nombre: ${supplier.CardName}</strong></p>
+        <p><strong></strong> ${supplier.CardCode} - <strong> ${supplier.CardName}</strong></p>
         <p><strong>Saldo de Cuenta Actual: $${numberWithCommas(supplier.CurrentAccountBalance.toFixed(2))}</strong></p>
     `;
 }

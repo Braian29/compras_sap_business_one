@@ -18,7 +18,7 @@ from api.unidades_mensual_subgrupo import bp as ventas_compras_bp
 from A_get_documentos_enteros.S_ejecutar_scripts import run_all_tasks_get_info, get_current_time
 from B_features.S_ejecutar_features import run_all_tasks_features 
 
-card_code = []
+card_code = 32189
 
 app = Flask(__name__)
 

@@ -1,2302 +1,1182 @@
 [
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 21,
-            "ItemCode": "557377",
-            "Quantity": 0.25,
+            "LineNum": 0,
+            "ItemCode": "560871",
+            "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 8033.04,
-            "VendorNum": "1119",
+            "Price": 14848.0,
+            "VendorNum": "MI-181",
             "WarehouseCode": "ESAN",
-            "LineTotal": 2008.26,
+            "LineTotal": 74240.0,
             "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 0,
-            "ItemCode": "562169",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-05AG",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 48756.2,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "551913",
-            "Quantity": 6.0,
+            "ItemCode": "563194",
+            "Quantity": 4.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-55R",
+            "Price": 50112.0,
+            "VendorNum": "MI-088",
             "WarehouseCode": "ESAN",
-            "LineTotal": 58507.44,
-            "SalesPersonCode": 23
+            "LineTotal": 200448.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 2,
-            "ItemCode": "551914",
-            "Quantity": 4.0,
+            "ItemCode": "557911",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-66V",
+            "Price": 31320.0,
+            "VendorNum": "MI-098",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 62640.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 3,
-            "ItemCode": "551916",
-            "Quantity": 4.0,
+            "ItemCode": "558174",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-88RS",
+            "Price": 31320.0,
+            "VendorNum": "MI-100",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 93960.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 4,
-            "ItemCode": "555146",
-            "Quantity": 4.0,
+            "ItemCode": "556889",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1034-04TP",
+            "Price": 54520.0,
+            "VendorNum": "MI-011",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 163560.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 5,
-            "ItemCode": "551918",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1100",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 6,
-            "ItemCode": "551920",
-            "Quantity": 5.0,
+            "ItemCode": "518326",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1102",
+            "Price": 16704.0,
+            "VendorNum": "MI-140",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 50112.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 7,
-            "ItemCode": "555530",
-            "Quantity": 6.0,
+            "ItemCode": "556344",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1112",
+            "Price": 12528.0,
+            "VendorNum": "MI-022",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 37584.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 8,
-            "ItemCode": "557617",
-            "Quantity": 5.0,
+            "ItemCode": "556131",
+            "Quantity": 40.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1156",
+            "Price": 33930.0,
+            "VendorNum": "MI-109",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 1357200.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 33987,
+            "NumAtCard": "0003-A-00000221",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-07-24",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 5,
+            "ItemCode": "556131",
+            "Quantity": 50.0,
+            "DiscountPercent": 0.0,
+            "Price": 33930.0,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 1696500.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 33987,
+            "NumAtCard": "0003-A-00000221",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-07-24",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 6,
+            "ItemCode": "565954",
+            "Quantity": 15.0,
+            "DiscountPercent": 0.0,
+            "Price": 16704.0,
+            "VendorNum": "MI-140",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 250560.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 33987,
+            "NumAtCard": "0003-A-00000221",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-07-24",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 7,
+            "ItemCode": "557911",
+            "Quantity": 3.0,
+            "DiscountPercent": 0.0,
+            "Price": 31320.0,
+            "VendorNum": "MI-098",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 93960.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 33987,
+            "NumAtCard": "0003-A-00000221",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-07-24",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 8,
+            "ItemCode": "556636",
+            "Quantity": 3.0,
+            "DiscountPercent": 0.0,
+            "Price": 30740.0,
+            "VendorNum": "MI-105",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 92220.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 33987,
+            "NumAtCard": "0003-A-00000221",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-07-24",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 9,
-            "ItemCode": "559176",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1158",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 10,
-            "ItemCode": "562485",
+            "ItemCode": "556889",
             "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1160",
+            "Price": 54520.0,
+            "VendorNum": "MI-011",
             "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
+            "LineTotal": 163560.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 13,
-            "ItemCode": "562486",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1165",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "562484",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1212",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "556087",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 11119.83,
-            "VendorNum": "1307",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 66718.98,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "555150",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1506",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "555154",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1544",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 30451,
+            "NumAtCard": "0002-A-00008974",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-03-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 0,
-            "ItemCode": "562169",
+            "ItemCode": "549631",
             "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-05AG",
+            "Price": 112520.0,
+            "VendorNum": "MI-075",
             "WarehouseCode": "ESAN",
-            "LineTotal": 48756.2,
-            "SalesPersonCode": 23
+            "LineTotal": 562600.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 30451,
+            "NumAtCard": "0002-A-00008974",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-03-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "551913",
-            "Quantity": 6.0,
+            "ItemCode": "556131",
+            "Quantity": 50.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-55R",
+            "Price": 33930.0,
+            "VendorNum": "MI-109",
             "WarehouseCode": "ESAN",
-            "LineTotal": 58507.44,
-            "SalesPersonCode": 23
+            "LineTotal": 1696500.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 30451,
+            "NumAtCard": "0002-A-00008974",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-03-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 2,
-            "ItemCode": "551914",
+            "ItemCode": "556344",
             "Quantity": 4.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-66V",
+            "Price": 12528.0,
+            "VendorNum": "MI-022",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 50112.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 30451,
+            "NumAtCard": "0002-A-00008974",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-03-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 3,
-            "ItemCode": "551916",
-            "Quantity": 4.0,
+            "ItemCode": "560871",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-88RS",
+            "Price": 14848.0,
+            "VendorNum": "MI-181",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 44544.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556131",
+            "Quantity": 40.0,
+            "DiscountPercent": 0.0,
+            "Price": 33930.0,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 1357200.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "560870",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 43500.0,
+            "VendorNum": "MI-048",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 87000.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "549631",
+            "Quantity": 8.0,
+            "DiscountPercent": 0.0,
+            "Price": 112520.0,
+            "VendorNum": "MI-075",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 900160.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "557913",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 43500.0,
+            "VendorNum": "MI-047",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 87000.0,
+            "SalesPersonCode": 5
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 4,
-            "ItemCode": "555146",
-            "Quantity": 4.0,
+            "ItemCode": "557910",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1034-04TP",
+            "Price": 81200.0,
+            "VendorNum": "MI-057",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 162400.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 5,
-            "ItemCode": "551918",
-            "Quantity": 6.0,
+            "ItemCode": "560869",
+            "Quantity": 3.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1100",
+            "Price": 50112.0,
+            "VendorNum": "MI-087",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 150336.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 6,
-            "ItemCode": "551920",
-            "Quantity": 5.0,
+            "ItemCode": "560309",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1102",
+            "Price": 28768.0,
+            "VendorNum": "MI-013",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 57536.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 7,
-            "ItemCode": "555530",
-            "Quantity": 6.0,
+            "ItemCode": "557911",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1112",
+            "Price": 31320.0,
+            "VendorNum": "MI-098",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 62640.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 8,
-            "ItemCode": "557617",
-            "Quantity": 5.0,
+            "ItemCode": "558174",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1156",
+            "Price": 31320.0,
+            "VendorNum": "MI-100",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 62640.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 9,
-            "ItemCode": "559176",
+            "ItemCode": "560871",
             "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1158",
+            "Price": 14848.0,
+            "VendorNum": "MI-181",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 74240.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 10,
-            "ItemCode": "562485",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1160",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 13,
-            "ItemCode": "562486",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1165",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "562484",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1212",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "556087",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 11119.83,
-            "VendorNum": "1307",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 66718.98,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "555150",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1506",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "555154",
+            "ItemCode": "556344",
             "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1544",
+            "Price": 12528.0,
+            "VendorNum": "MI-022",
             "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
+            "LineTotal": 62640.0,
+            "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 11,
-            "ItemCode": "555147",
-            "Quantity": 2.0,
+            "ItemCode": "560626",
+            "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1034-03RP",
+            "Price": 50112.0,
+            "VendorNum": "MI-086",
             "WarehouseCode": "ESAN",
-            "LineTotal": 9746.78,
+            "LineTotal": 250560.0,
             "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 12,
-            "ItemCode": "555146",
+            "ItemCode": "558754",
             "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1034-04TP",
+            "Price": 26100.0,
+            "VendorNum": "MI-014",
             "WarehouseCode": "ESAN",
-            "LineTotal": 9746.78,
+            "LineTotal": 52200.0,
             "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 34989,
+            "NumAtCard": "0003-A-00000299",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-08-16",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 13,
-            "ItemCode": "555146",
+            "ItemCode": "500075",
             "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1034-04TP",
+            "Price": 43500.0,
+            "VendorNum": "MI-039",
             "WarehouseCode": "ESAN",
-            "LineTotal": 9746.78,
+            "LineTotal": 87000.0,
             "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "561232",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-01M",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 21367.94,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "551912",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-33A",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 21367.94,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 20,
-            "ItemCode": "551916",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-88RS",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 21367.94,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 21,
-            "ItemCode": "555147",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1034-03RP",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 21367.94,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 2,
-            "ItemCode": "562167",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-02C",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 4873.39,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 4,
-            "ItemCode": "551912",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-33A",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 19493.56,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 6,
-            "ItemCode": "561290",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-44T",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 4873.39,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 10,
-            "ItemCode": "551917",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-99VD",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 4873.39,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 0,
-            "ItemCode": "561232",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 8884.57,
-            "VendorNum": "1003-01M",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 35538.28,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "562169",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-05AG",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 42735.88,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 18,
-            "ItemCode": "551913",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-55R",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 42735.88,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 0,
-            "ItemCode": "561231",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-00G",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 29240.34,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "561232",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-01M",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 24366.95,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 3,
-            "ItemCode": "562169",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-05AG",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 24366.95,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 29072,
+            "NumAtCard": "0002-A-00008928",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2024-02-20",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 5,
-            "ItemCode": "561290",
-            "Quantity": 5.0,
+            "ItemCode": "557913",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-44T",
+            "Price": 43500.0,
+            "VendorNum": "MI-047",
             "WarehouseCode": "ESAN",
-            "LineTotal": 24366.95,
+            "LineTotal": 87000.0,
             "SalesPersonCode": 5
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 7,
-            "ItemCode": "551913",
+            "LineNum": 0,
+            "ItemCode": "556636",
+            "Quantity": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 13920.0,
+            "VendorNum": "MI-105",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 83520.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "560626",
+            "Quantity": 8.0,
+            "DiscountPercent": 0.0,
+            "Price": 23200.0,
+            "VendorNum": "MI-086",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 185600.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "556476",
+            "Quantity": 3.0,
+            "DiscountPercent": 0.0,
+            "Price": 33060.0,
+            "VendorNum": "MI-231",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 99180.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "559265",
             "Quantity": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-55R",
+            "Price": 15080.0,
+            "VendorNum": "MI-146",
             "WarehouseCode": "ESAN",
-            "LineTotal": 48733.9,
-            "SalesPersonCode": 5
+            "LineTotal": 150800.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 9,
-            "ItemCode": "551916",
-            "Quantity": 8.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-88RS",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 38987.12,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "555148",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1034-05LP",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 24366.95,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "551919",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1101",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 9371.91,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 19,
-            "ItemCode": "555529",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1111",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 12495.88,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 20,
-            "ItemCode": "555530",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1112",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 6247.94,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 24,
-            "ItemCode": "557616",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1157",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 9371.91,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 25,
-            "ItemCode": "559176",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1158",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 6247.94,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 1,
-            "ItemCode": "562169",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 8884.57,
-            "VendorNum": "1003-05AG",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 53307.42,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 2,
-            "ItemCode": "551913",
-            "Quantity": 8.0,
-            "DiscountPercent": 0.0,
-            "Price": 8884.56,
-            "VendorNum": "1003-55R",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 71076.48,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 3,
-            "ItemCode": "551914",
-            "Quantity": 8.0,
-            "DiscountPercent": 0.0,
-            "Price": 8884.56,
-            "VendorNum": "1003-66V",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 71076.48,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 4,
-            "ItemCode": "551918",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1100",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 9,
-            "ItemCode": "555530",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1112",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 16728.84,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 8,
-            "ItemCode": "555529",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1111",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 13,
-            "ItemCode": "562485",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1160",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "562486",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1165",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "555150",
-            "Quantity": 12.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1506",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 66915.36,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 7,
-            "ItemCode": "555528",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1110",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 6,
-            "ItemCode": "551920",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1102",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 10,
-            "ItemCode": "555151",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1155",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 33457.68,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 19,
-            "ItemCode": "551914",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 10683.97,
-            "VendorNum": "1003-66V",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 64103.82,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 22,
-            "ItemCode": "551918",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.33,
-            "VendorNum": "1100",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 26241.32,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 23,
-            "ItemCode": "551919",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.33,
-            "VendorNum": "1101",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 13120.66,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 24,
-            "ItemCode": "551920",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.33,
-            "VendorNum": "1102",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 13120.66,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 25,
-            "ItemCode": "559176",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.33,
-            "VendorNum": "1158",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 26241.32,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 27,
-            "ItemCode": "555150",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.28,
-            "VendorNum": "1506",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 13120.56,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 28,
-            "ItemCode": "555154",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.28,
-            "VendorNum": "1544",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 26241.12,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 8,
-            "ItemCode": "551914",
-            "Quantity": 9.0,
-            "DiscountPercent": 0.0,
-            "Price": 4873.39,
-            "VendorNum": "1003-66V",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 43860.51,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "551918",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1100",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "551920",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1102",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 18,
-            "ItemCode": "555528",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1110",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 22,
-            "ItemCode": "555151",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1155",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 23,
-            "ItemCode": "557617",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1156",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 26,
-            "ItemCode": "556088",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 5519.01,
-            "VendorNum": "1308",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 22076.04,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 24819,
-            "NumAtCard": "0030-A-00007470",
-            "CardName": "Plumari SA",
-            "DocDate": "2023-10-25",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 27,
-            "ItemCode": "555154",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 3123.97,
-            "VendorNum": "1544",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 3123.97,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "555154",
+            "ItemCode": "560871",
             "Quantity": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1544",
+            "Price": 8120.0,
+            "VendorNum": "MI-181",
             "WarehouseCode": "ESAN",
-            "LineTotal": 55762.8,
-            "SalesPersonCode": 5
+            "LineTotal": 81200.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "556087",
-            "Quantity": 2.0,
-            "DiscountPercent": 0.0,
-            "Price": 10121.65,
-            "VendorNum": "1307",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 20243.3,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 12,
-            "ItemCode": "557616",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1157",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 5576.28,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 11,
-            "ItemCode": "557617",
-            "Quantity": 18.0,
-            "DiscountPercent": 0.0,
-            "Price": 5576.28,
-            "VendorNum": "1156",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 100373.04,
-            "SalesPersonCode": 5
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 27929,
-            "NumAtCard": "0030-A-00007884",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-01-19",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 5,
-            "ItemCode": "551919",
+            "ItemCode": "6540",
             "Quantity": 8.0,
-            "DiscountPercent": -0.0004,
-            "Price": 5576.3,
-            "VendorNum": "1101",
+            "DiscountPercent": 0.0,
+            "Price": 13224.0,
+            "VendorNum": "MI-021",
             "WarehouseCode": "ESAN",
-            "LineTotal": 44610.44,
-            "SalesPersonCode": 5
+            "LineTotal": 105792.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 26,
-            "ItemCode": "556087",
+            "LineNum": 6,
+            "ItemCode": "556131",
+            "Quantity": 100.0,
+            "DiscountPercent": 0.0,
+            "Price": 16936.0,
+            "VendorNum": "MI-109",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 1693600.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 7,
+            "ItemCode": "560869",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 23200.0,
+            "VendorNum": "MI-087",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 92800.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 8,
+            "ItemCode": "560309",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 14384.0,
+            "VendorNum": "MI-013",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57536.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 9,
+            "ItemCode": "557911",
+            "Quantity": 7.0,
+            "DiscountPercent": 0.0,
+            "Price": 15544.0,
+            "VendorNum": "MI-098",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 108808.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 10,
+            "ItemCode": "556344",
+            "Quantity": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 7308.0,
+            "VendorNum": "MI-022",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 73080.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 11,
+            "ItemCode": "558174",
             "Quantity": 5.0,
             "DiscountPercent": 0.0,
-            "Price": 12183.48,
-            "VendorNum": "1307",
+            "Price": 15544.0,
+            "VendorNum": "MI-100",
             "WarehouseCode": "ESAN",
-            "LineTotal": 60917.4,
-            "SalesPersonCode": 23
+            "LineTotal": 77720.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 30585,
-            "NumAtCard": "0030-A-00008183",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-04-03",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 29,
-            "ItemCode": "562486",
-            "Quantity": 1.0,
-            "DiscountPercent": 0.0,
-            "Price": 6560.28,
-            "VendorNum": "1165",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 6560.28,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 11,
-            "ItemCode": "565960",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1161",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34065,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 12,
-            "ItemCode": "565961",
-            "Quantity": 3.0,
+            "ItemCode": "503870",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1162",
+            "Price": 23200.0,
+            "VendorNum": "MI-088",
             "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
+            "LineTotal": 46400.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 11,
-            "ItemCode": "565960",
-            "Quantity": 3.0,
+            "LineNum": 13,
+            "ItemCode": "518326",
+            "Quantity": 4.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1161",
+            "Price": 9454.0,
+            "VendorNum": "MI-140",
             "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
+            "LineTotal": 37816.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34072,
-            "NumAtCard": "9999-A-00000000",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25501,
+            "NumAtCard": "0002-A-00008792",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-10",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 12,
-            "ItemCode": "565961",
-            "Quantity": 3.0,
+            "LineNum": 14,
+            "ItemCode": "557910",
+            "Quantity": 2.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1162",
+            "Price": 36250.0,
+            "VendorNum": "MI-057",
             "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
+            "LineTotal": 72500.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 0,
-            "ItemCode": "562169",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-05AG",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 48756.2,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 16,
-            "ItemCode": "555150",
+            "ItemCode": "556636",
             "Quantity": 6.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1506",
+            "Price": 14500.0,
+            "VendorNum": "MI-105",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 87000.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 10,
-            "ItemCode": "562485",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1160",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 5,
-            "ItemCode": "551918",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1100",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "551913",
-            "Quantity": 6.0,
+            "ItemCode": "560626",
+            "Quantity": 8.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-55R",
+            "Price": 27840.0,
+            "VendorNum": "MI-086",
             "WarehouseCode": "ESAN",
-            "LineTotal": 58507.44,
-            "SalesPersonCode": 23
+            "LineTotal": 222720.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 6,
-            "ItemCode": "551920",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1102",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 8,
-            "ItemCode": "557617",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1156",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 9,
-            "ItemCode": "559176",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1158",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "562484",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1212",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 17,
-            "ItemCode": "555154",
-            "Quantity": 5.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1544",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 23950.45,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 3,
-            "ItemCode": "551916",
-            "Quantity": 4.0,
-            "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-88RS",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 15,
-            "ItemCode": "556087",
-            "Quantity": 6.0,
-            "DiscountPercent": 0.0,
-            "Price": 11119.83,
-            "VendorNum": "1307",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 66718.98,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 2,
-            "ItemCode": "551914",
-            "Quantity": 4.0,
+            "ItemCode": "560871",
+            "Quantity": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1003-66V",
+            "Price": 8584.0,
+            "VendorNum": "MI-181",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 85840.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "6540",
+            "Quantity": 8.0,
+            "DiscountPercent": 0.0,
+            "Price": 13224.0,
+            "VendorNum": "MI-021",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 105792.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 4,
-            "ItemCode": "555146",
-            "Quantity": 4.0,
+            "ItemCode": "556131",
+            "Quantity": 100.0,
             "DiscountPercent": 0.0,
-            "Price": 9751.24,
-            "VendorNum": "1034-04TP",
+            "Price": 23838.0,
+            "VendorNum": "MI-109",
             "WarehouseCode": "ESAN",
-            "LineTotal": 39004.96,
-            "SalesPersonCode": 23
+            "LineTotal": 2383800.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
-            "LineNum": 13,
-            "ItemCode": "562486",
-            "Quantity": 6.0,
+            "LineNum": 5,
+            "ItemCode": "560869",
+            "Quantity": 4.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1165",
+            "Price": 27840.0,
+            "VendorNum": "MI-087",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 111360.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 6,
+            "ItemCode": "560309",
+            "Quantity": 4.0,
+            "DiscountPercent": 0.0,
+            "Price": 14384.0,
+            "VendorNum": "MI-013",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57536.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 7,
-            "ItemCode": "555530",
-            "Quantity": 6.0,
+            "ItemCode": "557911",
+            "Quantity": 7.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.09,
-            "VendorNum": "1112",
+            "Price": 15544.0,
+            "VendorNum": "MI-098",
             "WarehouseCode": "ESAN",
-            "LineTotal": 28740.54,
-            "SalesPersonCode": 23
+            "LineTotal": 108808.0,
+            "SalesPersonCode": -1
         }
     },
     {
         "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 8,
+            "ItemCode": "556344",
+            "Quantity": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 7308.0,
+            "VendorNum": "MI-022",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 73080.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 9,
+            "ItemCode": "558174",
+            "Quantity": 5.0,
+            "DiscountPercent": 0.0,
+            "Price": 15544.0,
+            "VendorNum": "MI-100",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 77720.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
+        },
+        "PurchaseInvoices/DocumentLines": {
+            "LineNum": 10,
+            "ItemCode": "503870",
+            "Quantity": 2.0,
+            "DiscountPercent": 0.0,
+            "Price": 27840.0,
+            "VendorNum": "MI-088",
+            "WarehouseCode": "ESAN",
+            "LineTotal": 55680.0,
+            "SalesPersonCode": -1
+        }
+    },
+    {
+        "PurchaseInvoices": {
+            "DocEntry": 25891,
+            "NumAtCard": "0002-A-00008797",
+            "CardName": "Yacuzio Sergio Eduardo",
+            "DocDate": "2023-11-22",
+            "FederalTaxID": "20165828284"
         },
         "PurchaseInvoices/DocumentLines": {
             "LineNum": 11,
-            "ItemCode": "565960",
-            "Quantity": 3.0,
+            "ItemCode": "518326",
+            "Quantity": 4.0,
             "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1161",
+            "Price": 9860.0,
+            "VendorNum": "MI-140",
             "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
-        }
-    },
-    {
-        "PurchaseInvoices": {
-            "DocEntry": 34078,
-            "NumAtCard": "0030-A-00008743",
-            "CardName": "Plumari SA",
-            "DocDate": "2024-07-29",
-            "FederalTaxID": "30561062338"
-        },
-        "PurchaseInvoices/DocumentLines": {
-            "LineNum": 12,
-            "ItemCode": "565961",
-            "Quantity": 3.0,
-            "DiscountPercent": 0.0,
-            "Price": 4790.08,
-            "VendorNum": "1162",
-            "WarehouseCode": "ESAN",
-            "LineTotal": 14370.24,
-            "SalesPersonCode": 23
+            "LineTotal": 39440.0,
+            "SalesPersonCode": -1
         }
     }
 ]
