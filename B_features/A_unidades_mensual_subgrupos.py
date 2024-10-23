@@ -18,7 +18,7 @@ def process_document(docs, is_purchase, is_credit):
         doc_lines = list(doc.values())[1]  # 'Invoices/DocumentLines', etc.
         
         item_code = doc_lines['ItemCode']
-        quantity = doc_lines['Quantity']
+        quantity = doc_lines['Quantity'] * doc_lines['UnitsOfMeasurment']
         doc_date = datetime.strptime(doc[doc_header]['DocDate'], '%Y-%m-%d')
         month_key = f"{doc_date.year}-{doc_date.month:02d}"
         

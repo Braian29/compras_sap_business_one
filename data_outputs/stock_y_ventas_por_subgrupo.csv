@@ -1,17 +1,28 @@
 SubGroupCode,Stock,Quantity,StockEnMeses,SubGroup
-035,0.0,0.0,0.0,Jabon Liquido Tocador
-044,115.0,15.0,7.666666666666667,Cera De Pisos
-090,15.0,1.0,15.0,Fragancia Para Pisos
-102,0.0,0.0,0.0,Limpia Alfombras
-113,20.0,6.0,3.3333333333333335,Liquido Antigrasa
-222,123.0,69.0,1.7826086956521738,Perfuminas
-252,14.0,6.0,2.3333333333333335,Limpiador Profesional
-266,5.0,15.0,0.3333333333333333,Liquido Limpia Vidrios
-278,19.0,2.0,9.5,Acondicionador De Pisos
-301,0.0,0.0,0.0,Desinfectantes
-313,8.0,0.0,0.0,Limpiador
-330,7.0,0.0,0.0,Lavavajillas
-331,0.0,0.0,0.0,Final De Obra
-390,0.0,0.0,0.0,Limpiador Neutro
-429,36.0,4.0,9.0,Curador Hidrofugo
-441,0.0,0.0,0.0,Removedor De Cera
+001,4498.0,2786.0,1.6145010768126347,Rollo De Cocina
+009,304.0,2.0,152.0,Pañales De Bebes M
+010,383.0,75.0,5.1066666666666665,Protector Diario
+011,1832.76,575.0,3.187408695652174,Servilleta Profesional
+027,433.0,46.0,9.41304347826087,Pañales De Bebes XXG
+028,1600.001,434.0,3.686638248847926,Toalla Femenina
+035,1346.0,129.0,10.434108527131784,Jabon Liquido Tocador
+043,8362.0,2812.0,2.973684210526316,Papel Higienico Profesional
+045,339.0,36.0,9.416666666666666,Pañales De Bebes XG
+052,204.0,14.0,14.571428571428571,Pañales De Bebes G
+053,15939.0,6593.0,2.417564083118459,Papel Higienico Domestico
+057,0.0,0.0,0.0,Incontinencia Apositos
+071,836.0,102.0,8.196078431372548,Dispenser
+125,0.0,0.0,0.0,Alcohol Liquido
+146,27.0,0.0,0.0,Varios
+153,289.002,154.0,1.8766363636363637,Ballerinas
+154,0.0,0.0,0.0,Toallitas Humedas
+157,8.0,0.0,0.0,Alcohol En Gel
+164,18.0,4.0,4.5,Barbijos
+166,2613.0,629.0,4.154213036565978,Servilleta Domestica
+171,6.0,0.0,0.0,Incontinencia Pañales De Adulto
+177,0.0,0.0,0.0,Pañales De Bebes p
+178,5922.0,1327.0,4.4626978146194425,Pañuelos descartables
+201,0.0,0.0,0.0,Incontinencia Ropa Interior Adultos
+224,4692.0,1628.0,2.882063882063882,Toalla Bobina
+270,0.0,0.0,0.0,Pañales De Bebes RN
+335,1858.0,483.0,3.846790890269151,Toalla Intercalada

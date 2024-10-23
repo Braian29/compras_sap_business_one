@@ -12,7 +12,7 @@ def get_data_from_api(endpoint, fecha_desde, fecha_hasta, card_code, doc_type):
     data = {
         "QueryPath": f"$crossjoin({doc_type},{doc_type}/DocumentLines,Items)",
         "QueryOption": f"$expand={doc_type}($select=DocEntry, NumAtCard,CardName,DocDate,FederalTaxID),"
-                       f"{doc_type}/DocumentLines($select=LineNum, ItemCode,Quantity,DiscountPercent,Price,VendorNum,"
+                       f"{doc_type}/DocumentLines($select=LineNum, ItemCode,Quantity,UnitsOfMeasurment, DiscountPercent,Price,GrossBuyPrice,"
                        f"WarehouseCode,LineTotal,SalesPersonCode)&$filter={doc_type}/DocEntry eq "
                        f"{doc_type}/DocumentLines/DocEntry and {doc_type}/DocumentLines/ItemCode eq Items/ItemCode "
                        f"and Items/Mainsupplier eq '{card_code}' and {doc_type}/DocDate ge '{fecha_desde}' "

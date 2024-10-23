@@ -1,302 +1,1178 @@
 [
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 7052,
+            "NumAtCard": "9999-A-00004120",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-11-01",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 0,
-            "ItemCode": "556636",
-            "Quantity": 6.0,
+            "ItemCode": "563710",
+            "Quantity": 299.0,
+            "UnitsOfMeasurment": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 13920.0,
-            "VendorNum": "MI-105",
+            "Price": 3036.9,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 83520.0,
-            "SalesPersonCode": -1
+            "LineTotal": 908033.1,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 7062,
+            "NumAtCard": "9999-A-00004127",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-10-25",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "660218",
+            "Quantity": 36.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 4097.52,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 147510.72,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7063,
+            "NumAtCard": "9999-A-00004127",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-10-25",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "660218",
+            "Quantity": 36.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 4097.52,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 147510.72,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7064,
+            "NumAtCard": "0130-A-00211610",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-10-25",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "660218",
+            "Quantity": 36.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 4097.52,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 147510.72,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7157,
+            "NumAtCard": "9999-A-00004176",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-10-31",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "533601",
+            "Quantity": 180.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 2567.58,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 462164.4,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7158,
+            "NumAtCard": "9999-A-00004177",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-10-31",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556327",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 18005.72,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 18005.72,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7419,
+            "NumAtCard": "9999-A-00004326",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-11-23",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "563858",
+            "Quantity": 120.0,
+            "UnitsOfMeasurment": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 8460.07,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 1015208.4,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7584,
+            "NumAtCard": "9999-A-00004425",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-12-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "660218",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 5160.57,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 5160.57,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7584,
+            "NumAtCard": "9999-A-00004425",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-12-07",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 1,
-            "ItemCode": "560626",
-            "Quantity": 8.0,
+            "ItemCode": "550071",
+            "Quantity": 6.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 23200.0,
-            "VendorNum": "MI-086",
+            "Price": 4296.48,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 185600.0,
-            "SalesPersonCode": -1
+            "LineTotal": 25778.88,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 7785,
+            "NumAtCard": "9999-A-00004550",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2023-12-28",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "660218",
+            "Quantity": 144.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 6760.22,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 973471.68,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7951,
+            "NumAtCard": "9999-A-00004652",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-13",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "564488",
+            "Quantity": 20.0,
+            "UnitsOfMeasurment": 35.0,
+            "DiscountPercent": 0.0,
+            "Price": 34591.89,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 691837.8,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7951,
+            "NumAtCard": "9999-A-00004652",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-13",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "563580",
+            "Quantity": 30.0,
+            "UnitsOfMeasurment": 12.0,
+            "DiscountPercent": 0.0,
+            "Price": 16632.41,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 498972.3,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 7951,
+            "NumAtCard": "9999-A-00004652",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-13",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 2,
-            "ItemCode": "556476",
-            "Quantity": 3.0,
+            "ItemCode": "563859",
+            "Quantity": 260.0,
+            "UnitsOfMeasurment": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 33060.0,
-            "VendorNum": "MI-231",
+            "Price": 30089.58,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 99180.0,
-            "SalesPersonCode": -1
+            "LineTotal": 7823290.8,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 7951,
+            "NumAtCard": "9999-A-00004652",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-13",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 3,
-            "ItemCode": "559265",
-            "Quantity": 10.0,
+            "ItemCode": "563021",
+            "Quantity": 24.0,
+            "UnitsOfMeasurment": 10.0,
             "DiscountPercent": 0.0,
-            "Price": 15080.0,
-            "VendorNum": "MI-146",
+            "Price": 12229.44,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 150800.0,
-            "SalesPersonCode": -1
+            "LineTotal": 293506.56,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 8009,
+            "NumAtCard": "9999-A-00004680",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-19",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
-            "LineNum": 4,
-            "ItemCode": "560871",
-            "Quantity": 10.0,
+            "LineNum": 1,
+            "ItemCode": "544368",
+            "Quantity": 1500.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 8120.0,
-            "VendorNum": "MI-181",
+            "Price": 14318.67,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 81200.0,
-            "SalesPersonCode": -1
+            "LineTotal": 21478005.0,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 8009,
+            "NumAtCard": "9999-A-00004680",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-19",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
-            "LineNum": 5,
-            "ItemCode": "6540",
-            "Quantity": 8.0,
+            "LineNum": 2,
+            "ItemCode": "563734",
+            "Quantity": 144.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 13224.0,
-            "VendorNum": "MI-021",
+            "Price": 8889.09,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 105792.0,
-            "SalesPersonCode": -1
+            "LineTotal": 1280028.96,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 8010,
+            "NumAtCard": "9999-A-00004681",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-19",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 6,
-            "ItemCode": "556131",
-            "Quantity": 100.0,
+            "ItemCode": "559999",
+            "Quantity": 8.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 16936.0,
-            "VendorNum": "MI-109",
+            "Price": 6822.68,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 1693600.0,
-            "SalesPersonCode": -1
+            "LineTotal": 54581.44,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 8010,
+            "NumAtCard": "9999-A-00004681",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-01-19",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 7,
-            "ItemCode": "560869",
-            "Quantity": 4.0,
+            "ItemCode": "544371",
+            "Quantity": 15.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 23200.0,
-            "VendorNum": "MI-087",
+            "Price": 9812.79,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 92800.0,
-            "SalesPersonCode": -1
+            "LineTotal": 147191.85,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 8324,
+            "NumAtCard": "9999-A-00000000",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-02-16",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 9.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 6409.21,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57682.89,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 8401,
+            "NumAtCard": "9999-A-00000000",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-02-16",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 9.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 6409.21,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57682.89,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 8402,
+            "NumAtCard": "0130-A-00215095",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-02-16",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 9.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 6409.2,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 57682.8,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 8656,
+            "NumAtCard": "9999-A-00005108",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-02-28",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "564750",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 3.0,
+            "DiscountPercent": 0.0,
+            "Price": 29712.78,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 29712.78,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 9481,
+            "NumAtCard": "0130-A-00000218",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-05-23",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "563021",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 10395.0,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 10395.0,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 9481,
+            "NumAtCard": "0130-A-00000218",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-05-23",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "565182",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 10.0,
+            "DiscountPercent": 0.0,
+            "Price": 13468.37,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 13468.37,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 9645,
+            "NumAtCard": "9999-A-00005777",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-06-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "562873",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 50272.14,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 50272.14,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 9645,
+            "NumAtCard": "9999-A-00005777",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-06-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "550071",
+            "Quantity": 12.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 6109.04,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 73308.48,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 9938,
+            "NumAtCard": "9999-A-00005970",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-07-11",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "562280",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 24062.42,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 24062.42,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "531173",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 19822.07,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 19822.07,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "533893",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 15204.18,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 15204.18,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "542575",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 18718.25,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 18718.25,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "559437",
+            "Quantity": 2.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 12896.27,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 25792.54,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 4,
+            "ItemCode": "559434",
+            "Quantity": 2.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 12896.27,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 25792.54,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 5,
+            "ItemCode": "553846",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 58901.26,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 58901.26,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 6,
+            "ItemCode": "544368",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 16068.2,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 16068.2,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 7,
+            "ItemCode": "556326",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 8967.58,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 8967.58,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 8,
-            "ItemCode": "560309",
-            "Quantity": 4.0,
+            "ItemCode": "556638",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 14384.0,
-            "VendorNum": "MI-013",
+            "Price": 7970.98,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 57536.0,
-            "SalesPersonCode": -1
+            "LineTotal": 7970.98,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 9,
-            "ItemCode": "557911",
-            "Quantity": 7.0,
+            "ItemCode": "556464",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 15544.0,
-            "VendorNum": "MI-098",
+            "Price": 1.0,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 108808.0,
-            "SalesPersonCode": -1
+            "LineTotal": 1.0,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 10,
-            "ItemCode": "556344",
-            "Quantity": 10.0,
+            "ItemCode": "556073",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 7308.0,
-            "VendorNum": "MI-022",
+            "Price": 1.0,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 73080.0,
-            "SalesPersonCode": -1
+            "LineTotal": 1.0,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10324,
+            "NumAtCard": "9999-A-00006204",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-21",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
             "LineNum": 11,
-            "ItemCode": "558174",
-            "Quantity": 5.0,
+            "ItemCode": "564557",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 15544.0,
-            "VendorNum": "MI-100",
+            "Price": 95186.55,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 77720.0,
-            "SalesPersonCode": -1
+            "LineTotal": 95186.55,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10454,
+            "NumAtCard": "9999-A-00006293",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-08-20",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
-            "LineNum": 12,
-            "ItemCode": "503870",
+            "LineNum": 0,
+            "ItemCode": "562855",
             "Quantity": 2.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 23200.0,
-            "VendorNum": "MI-088",
+            "Price": 10471.15,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 46400.0,
-            "SalesPersonCode": -1
+            "LineTotal": 20942.3,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10496,
+            "NumAtCard": "9999-A-00006318",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-09-05",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
-            "LineNum": 13,
-            "ItemCode": "518326",
+            "LineNum": 0,
+            "ItemCode": "545609",
             "Quantity": 4.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 9454.0,
-            "VendorNum": "MI-140",
+            "Price": 12779.1,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 37816.0,
-            "SalesPersonCode": -1
+            "LineTotal": 51116.4,
+            "SalesPersonCode": 4
         }
     },
     {
         "PurchaseCreditNotes": {
-            "DocEntry": 7199,
-            "NumAtCard": "0002-A-00000236",
-            "CardName": "Yacuzio Sergio Eduardo",
-            "DocDate": "2023-11-10",
-            "FederalTaxID": "20165828284"
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
         },
         "PurchaseCreditNotes/DocumentLines": {
-            "LineNum": 14,
-            "ItemCode": "557910",
-            "Quantity": 2.0,
+            "LineNum": 0,
+            "ItemCode": "542575",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
             "DiscountPercent": 0.0,
-            "Price": 36250.0,
-            "VendorNum": "MI-057",
+            "Price": 19530.61,
+            "GrossBuyPrice": 0.0,
             "WarehouseCode": "ESAN",
-            "LineTotal": 72500.0,
-            "SalesPersonCode": -1
+            "LineTotal": 19530.61,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 1,
+            "ItemCode": "560755",
+            "Quantity": 10.0,
+            "UnitsOfMeasurment": 48.0,
+            "DiscountPercent": 0.0,
+            "Price": 27348.0,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 273480.0,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 2,
+            "ItemCode": "564557",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 99317.62,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 99317.62,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 3,
+            "ItemCode": "544371",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 12094.44,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 12094.44,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 4,
+            "ItemCode": "560531",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 15852.78,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 15852.78,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 5,
+            "ItemCode": "550071",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 7899.47,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 7899.47,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 6,
+            "ItemCode": "556638",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 49901.52,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 49901.52,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10931,
+            "NumAtCard": "9999-A-00006595",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 7,
+            "ItemCode": "562873",
+            "Quantity": 1.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 37448.17,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 37448.17,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10942,
+            "NumAtCard": "9999-A-00006603",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-18",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556326",
+            "Quantity": 2.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 53805.48,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 107610.96,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10829,
+            "NumAtCard": "9999-A-00006528",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556326",
+            "Quantity": 3.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 53467.1,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 160401.3,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10966,
+            "NumAtCard": "9999-A-00006528",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556326",
+            "Quantity": 3.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 53467.1,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 160401.3,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10967,
+            "NumAtCard": "0130-A-00224353",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-22",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "556326",
+            "Quantity": 3.0,
+            "UnitsOfMeasurment": 6.0,
+            "DiscountPercent": 0.0,
+            "Price": 53467.1,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 160401.3,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10830,
+            "NumAtCard": "9999-A-00006529",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 6.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 7899.47,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 47396.82,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10969,
+            "NumAtCard": "9999-A-00006529",
+            "CardName": "La Papelera Del Plata - Softys Argentina SA",
+            "DocDate": "2024-10-07",
+            "FederalTaxID": "30501036672"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 6.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 7899.47,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 47396.82,
+            "SalesPersonCode": 4
+        }
+    },
+    {
+        "PurchaseCreditNotes": {
+            "DocEntry": 10971,
+            "NumAtCard": "0130-A-00224352",
+            "CardName": "Unilever De Argentina SA",
+            "DocDate": "2024-10-22",
+            "FederalTaxID": "30501092696"
+        },
+        "PurchaseCreditNotes/DocumentLines": {
+            "LineNum": 0,
+            "ItemCode": "550071",
+            "Quantity": 6.0,
+            "UnitsOfMeasurment": 1.0,
+            "DiscountPercent": 0.0,
+            "Price": 7899.47,
+            "GrossBuyPrice": 0.0,
+            "WarehouseCode": "ESAN",
+            "LineTotal": 47396.82,
+            "SalesPersonCode": 4
         }
     }
 ]
